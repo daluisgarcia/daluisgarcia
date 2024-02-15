@@ -2,14 +2,14 @@
   Hi there 👋 I’m Daniel Luis 🤓
 </h3>
 
-I am a FullStack Web Developer that likes to write clean code that help the project's architecture and maintainability. Looking for new challenges that help me to improve my knowledge and aptitudes in software developing. I usually code in Python, Golang and TypeScript using frameworks like NestJS, VueJS, Flask, Django and Echo for my projects; I’ve been using a lot of python lately and some ML libraries and frameworks too.
+I am a Backend Developer, interested in clean coding and software architecture. Designing and implementing software tools like trading bots, data integrations systems and social media chatbots to improve financial indicators and strategies user experiences. Experince with Python, Golang and I am seeing Rust on my close future.
 
 ---
-
-- 📝 I’m currently studying Computer Engineering and Data Science.
-- 🔭 I’m currently on remote working as Software Developer.
-- 🌱 I’m currently learning about Machine Learning 🤖 and Cloud ☁️
-- 👯 I’m looking to collaborate on some Machine Learning project that allows me to get more experience in this field
+<!--
+- 📝 I’m currently studying Computer Engineering and Data Science. -->
+- 🔭 I’m currently on remote working as Software Developer on financial tech company.
+- 🌱 I’m currently learning about Data Science world
+- 👯 I’m looking to collaborate in some Data Science project that allows me to get more experience in this field
 - 📫 How to reach me: daluisgarcia@gmail.com
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daluisgarcia)
